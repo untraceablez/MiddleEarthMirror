@@ -1,4 +1,4 @@
-/* Magic Mirror Config Sample
+/* Magic Mirror Config for Taylor Cohron
  *
  * By Michael Teeuw http://michaelteeuw.nl
  * MIT Licensed.
