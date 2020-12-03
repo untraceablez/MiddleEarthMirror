@@ -27,7 +27,7 @@ var config = {
 
 	language: "en",
 	timeFormat: 24,
-	units: "metric",
+	units: "imperial",
 	serverOnly:  "true" ,
 			     // local for armv6l processors, default
 			     //   starts serveronly and then starts chrome browser
@@ -90,7 +90,7 @@ var config = {
 					{
 						title: "New York Times",
 						url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-					
+
 						title: "BBC World",
 						url: "http://feeds.bbci.co.uk/news/world/rss.xml",
 
