@@ -90,6 +90,22 @@ var config = {
 						title: "New York Times",
 						url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
 					}
+					{
+						title: "BBC World",
+						url: "http://feeds.bbci.co.uk/news/world/rss.xml"
+					}
+					{
+						title: "Chicago Tribune",
+						url: "https://www.chicagotribune.com/arcio/rss/category/news/breaking/?query=display_date:%5Bnow-2d+TO+now%5D+AND+revision.published:true&sort=display_date:desc#nt=instory-link"
+					}
+					{
+						title: "Washington Post",
+						url: "http://feeds.washingtonpost.com/rss/politics?itid=lk_inline_manual_2"
+					}
+					{
+						title:"Ars Technica",
+						url: "http://feeds.arstechnica.com/arstechnica/index"
+					}
 				],
 				showSourceTitle: true,
 				showPublishDate: true,
